@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# CPP Primer
 
-You can use the [editor on GitHub](https://github.com/adityamwagh/cpp-primer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is this?
+A quick overview of the C++ programming language. Consider this to be a documentation/summary for the things I have learnt about C++.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why did I create this?
+I primarily program in Python, and recently started graduate school in robotics. Most of the production code in robotics is written in C++, and Python is majorly used for prototyping ideas. Thus, it kind of mandatory for me to understand C++ well enough so that I can use it in a professional setting.
 
-### Markdown
+## What it is not!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are a lot of concepts in C++ which I don't understand as of now. 
+It's not a documentation. You should refer to the https://en.cppreference.com/w/ for that. I am planning to make it similar to [cs231 python numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adityamwagh/cpp-primer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contributions
+If you find any errors (I am a human, I make mistakes too.), please feel free to make a pull request and correct it. It will help a fellow programmer, and in future, I hope, others like me.
