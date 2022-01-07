@@ -1,5 +1,4 @@
 <h1 align="center" >CPP Primer<br></h1>
-<p align="center" >Quick C++ Introduction<br></p>
 
 ## What is this?
 A quick overview of the C++ programming language. This is an attempt to document/summarise the major concepts in C++ so that anyone can revisit them when needed.
